@@ -19,45 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="086a8e15-728d-4eb6-bd84-1d33e2b88cd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/actions/types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/videos/VideoCreate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/videos/VideoDelete.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/videos/VideoEdit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/videos/VideoForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/videos/VideoList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/videos/VideoShow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/history.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/authReducers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/setupProxy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/keys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/prod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/route/indexRoutes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/route/mediaRoutes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="086a8e15-728d-4eb6-bd84-1d33e2b88cd5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +73,7 @@
       <updated>1596267813323</updated>
       <workItem from="1596267816739" duration="32000" />
       <workItem from="1596269835995" duration="309000" />
-      <workItem from="1596270361494" duration="5443000" />
+      <workItem from="1596270361494" duration="5770000" />
     </task>
     <servers />
   </component>
