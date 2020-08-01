@@ -2,6 +2,7 @@ const express       = require('express'),
     path            = require('path'),
     http            = require('http'),
     bodyParser      = require('body-parser'),
+    mongoose        = require('mongoose'),
     keys            = require('./config/keys'),
     indexRoutes     = require('./route/indexRoutes'),
     mediaRoutes     = require('./route/mediaRoutes');
