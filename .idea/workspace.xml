@@ -19,42 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="086a8e15-728d-4eb6-bd84-1d33e2b88cd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/actions/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/api/axios.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/auth/Auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/auth/AuthForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/auth/AuthOut.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/auth/AuthUp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/requireAuth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/videoReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/authentication.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/Image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/Movie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/User.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/Video.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/route/authRoutes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/passport.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/videos/VideoCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/videos/VideoCreate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/videos/VideoDelete.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/videos/VideoDelete.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/videos/VideoEdit.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/videos/VideoEdit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/videos/VideoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/videos/VideoList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/videos/VideoShow.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/videos/VideoShow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/reducers/authReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/reducers/authReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/setupProxy.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/setupProxy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/prod.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="086a8e15-728d-4eb6-bd84-1d33e2b88cd5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +78,7 @@
       <updated>1596267813323</updated>
       <workItem from="1596267816739" duration="32000" />
       <workItem from="1596269835995" duration="309000" />
-      <workItem from="1596270361494" duration="21734000" />
+      <workItem from="1596270361494" duration="21901000" />
     </task>
     <servers />
   </component>
