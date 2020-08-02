@@ -1,4 +1,5 @@
 import React from "react";
+import requireAuth from "../requireAuth";
 
 class VideoDelete extends React.Component {
     render() {
@@ -10,4 +11,4 @@ class VideoDelete extends React.Component {
     }
 }
 
-export default VideoDelete;
+export default requireAuth(VideoDelete);

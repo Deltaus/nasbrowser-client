@@ -1,4 +1,6 @@
 import React from "react";
+import requireAuth from "../requireAuth";
+import VideoForm from "./VideoForm";
 
 class VideoEdit extends React.Component {
     render() {
@@ -10,4 +12,4 @@ class VideoEdit extends React.Component {
     }
 }
 
-export default VideoEdit;
+export default requireAuth(VideoEdit);

@@ -3,9 +3,12 @@ const express       = require('express'),
     http            = require('http'),
     bodyParser      = require('body-parser'),
     mongoose        = require('mongoose'),
+    cors            = require('cors'),
+    morgan          = require('morgan'),
     keys            = require('./config/keys'),
     indexRoutes     = require('./route/indexRoutes'),
-    mediaRoutes     = require('./route/mediaRoutes');
+    mediaRoutes     = require('./route/mediaRoutes'),
+    authRoutes      = require('./route/authRoutes');
 
 const app   = express(),
      port   = process.env.PORT || 5000;
@@ -13,10 +16,13 @@ const app   = express(),
 mongoose.connect(keys.mongoURI, {useNewUrlParser: true, useUnifiedTopology: true});
 
 app.use(bodyParser.json({type: '*/*'}));
+app.use(morgan('combined'));
+app.use(cors())
 
 // routes
 app.use('/', indexRoutes);
 app.use('/media', mediaRoutes);
+app.use('/auth', authRoutes);
 // shift to production mode
 if(process.env.NODE_ENV === 'production') {
     app.use(express.static('client/build'));

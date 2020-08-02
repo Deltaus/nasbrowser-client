@@ -1,4 +1,5 @@
 import React from "react";
+import requireAuth from "../requireAuth";
 
 class VideoList extends React.Component {
     render() {
@@ -10,4 +11,4 @@ class VideoList extends React.Component {
     }
 }
 
-export default VideoList;
+export default requireAuth(VideoList);

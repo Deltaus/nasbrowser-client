@@ -1,4 +1,5 @@
 import React from "react";
+import requireAuth from "../requireAuth";
 
 class VideoShow extends React.Component {
     render() {
@@ -10,4 +11,4 @@ class VideoShow extends React.Component {
     }
 }
 
-export default VideoShow;
+export default requireAuth(VideoShow);
