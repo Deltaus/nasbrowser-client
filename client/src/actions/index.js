@@ -1,4 +1,4 @@
-import axios from '../api/axios';
+import axios from 'axios';
 import {SIGN_IN,
     SIGN_OUT,
     SIGN_UP,
